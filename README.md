@@ -8,6 +8,7 @@ The program should randomly generate a move for the computer.
 Determine the winner based on the rules of Rock Paper Scissors.
 Output the result (win, lose, or draw) to the console.
 
+----------------------------------------------------------------------------------------------------------------------------------
 
 English to Pig Latin Translator
 Description: Create a program that translates English text to Pig Latin.
@@ -25,6 +26,7 @@ Example:
 node pigLatin.js "Pig Latin is hard to speak"
 # Output: Igpay Atinlay isway ardhay otay eakspay
 
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Caesar Cipher
 Description: Implement a basic Caesar Cipher encryption.
@@ -39,6 +41,7 @@ Example:
 node caesarCipher.js "hello world" 3
 # Output: khoor zruog
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 Project Resources:
 https://en.wikipedia.org/wiki/Rock_paper_scissors
