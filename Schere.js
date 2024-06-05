@@ -17,3 +17,8 @@ result = 'JS wins!';
 }
 
 console.log(`You chose ${playerMove}. Computer chose ${computerMove}. ${result}`);
+
+
+// node Schere.js rock
+// node Schere.js paper
+// node Schere.js scissor
